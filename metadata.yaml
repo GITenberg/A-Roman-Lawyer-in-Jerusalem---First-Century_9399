@@ -1,0 +1,25 @@
+_repo: A-Roman-Lawyer-in-Jerusalem---First-Century_9399
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Story, William Wetmore
+    birthdate: 1819
+    deathdate: 1895
+    gutenberg_agent_id: '3041'
+    url: http://www.gutenberg.org/2009/agents/3041
+    wikipedia: http://en.wikipedia.org/wiki/William_Wetmore_Story
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Judas Iscariot -- Poetry'
+- GITenberg
+title: 'A Roman Lawyer in Jerusalem : First Century'
+url: http://www.gutenberg.org/ebooks/9399
